@@ -1,0 +1,32 @@
+{
+  "kind": "slave",
+  "level": 1,
+  "frameW": 48,
+  "frameH": 50,
+  "footX": 24,
+  "footY": 37,
+  "strideSpeed": 13,
+  "clips": {
+    "walk": {
+      "fps": 10,
+      "loop": true,
+      "frames": 8
+    },
+    "attack": {
+      "fps": 12,
+      "loop": false,
+      "contact": 4,
+      "frames": 8
+    },
+    "idle": {
+      "fps": 5,
+      "loop": true,
+      "frames": 4
+    },
+    "death": {
+      "fps": 10,
+      "loop": false,
+      "frames": 7
+    }
+  }
+}
