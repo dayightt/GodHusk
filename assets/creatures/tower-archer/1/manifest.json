@@ -1,0 +1,32 @@
+{
+  "kind": "tower-archer",
+  "level": 1,
+  "frameW": 48,
+  "frameH": 49,
+  "footX": 24,
+  "footY": 37,
+  "strideSpeed": 0,
+  "clips": {
+    "walk": {
+      "fps": 1,
+      "loop": true,
+      "frames": 1
+    },
+    "attack": {
+      "fps": 12,
+      "loop": false,
+      "contact": 7,
+      "frames": 9
+    },
+    "idle": {
+      "fps": 5,
+      "loop": true,
+      "frames": 4
+    },
+    "death": {
+      "fps": 1,
+      "loop": false,
+      "frames": 1
+    }
+  }
+}
