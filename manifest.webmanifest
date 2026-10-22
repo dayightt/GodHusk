@@ -1,0 +1,9 @@
+{
+  "name": "God Husk",
+  "short_name": "God Husk",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#07060a",
+  "theme_color": "#07060a",
+  "start_url": "./"
+}
