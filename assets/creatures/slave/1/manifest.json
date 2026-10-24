@@ -4,7 +4,7 @@
   "frameW": 48,
   "frameH": 50,
   "footX": 24,
-  "footY": 38,
+  "footY": 37,
   "strideSpeed": 13,
   "clips": {
     "walk": {
@@ -13,9 +13,9 @@
       "frames": 8
     },
     "idle": {
-      "fps": 6,
+      "fps": 5,
       "loop": true,
-      "frames": 14
+      "frames": 4
     },
     "death": {
       "fps": 10,
@@ -31,24 +31,24 @@
   "hold": {
     "S": {
       "x": 0,
-      "y": -12
+      "y": -10
     },
     "SE": {
-      "x": 5,
-      "y": -10
+      "x": 4,
+      "y": -11
     },
     "E": {
       "x": 6,
-      "y": -12
+      "y": -11
     },
     "NE": {
-      "x": 2,
-      "y": -12,
+      "x": 4,
+      "y": -11,
       "behind": true
     },
     "N": {
       "x": 0,
-      "y": -12,
+      "y": -11,
       "behind": true
     }
   }
