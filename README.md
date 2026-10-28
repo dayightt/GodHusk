@@ -2,4 +2,4 @@
 
 Play it: https://dayightt.github.io/GodHusk/
 
-Built files only, published from DreadCrown ace6a28.
+Built files only, published from DreadCrown 0544b63.
